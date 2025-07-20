@@ -1,3 +1,4 @@
+```
 Gemini Desktop Companion - AI屏幕伙伴
 一个潜伏在您桌面后台的AI伙伴，它会出其不意地对您的屏幕内容进行观察，并带来充满惊喜的评论。
 
@@ -43,3 +44,4 @@ AI 模型: Google Gemini 2.5 flash
 GUI框架: Tkinter
 屏幕截图: mss
 图像处理: Pillow (PIL)
+```
